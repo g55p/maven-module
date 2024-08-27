@@ -1,4 +1,4 @@
-<h6>How to build:</h6>
+<h4>How to build:</h6>
 <br>
 <p>
 1- Run mvn package in parent project <br>
